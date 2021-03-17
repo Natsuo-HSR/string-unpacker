@@ -1,4 +1,4 @@
-# string-unpacker
+# String-unpacker
 String unpacker on java
 
 Task:
