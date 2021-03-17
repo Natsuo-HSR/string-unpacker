@@ -13,3 +13,5 @@ Output: xyzxyzxyzxyxyxyxyz
 main function - unpack()
 
 Pragramm also validate input string - if it's not valid functuion unpack() return string "Not valid"
+
+Some tests provided in test/StringGeneratorTest.java
