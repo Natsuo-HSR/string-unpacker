@@ -8,7 +8,7 @@ Example:
 Input: 3[xyz]4[xy]z
 Output: xyzxyzxyzxyxyxyxyz
 
-#--------------------------
+# --------------------------
 
 main function - unpack()
 
